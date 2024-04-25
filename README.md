@@ -14,3 +14,7 @@
 https://github.com/Marinaolisilva/Eventos_esportivos/wiki/Layout
 <br>
 https://github.com/Marinaolisilva/Eventos_esportivos/wiki/Widgets
+
+## Wiki de Apresentação do App
+
+https://github.com/Marinaolisilva/Eventos_esportivos/wiki/Apresenta%C3%A7%C3%A3o
